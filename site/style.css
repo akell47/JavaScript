@@ -1,0 +1,33 @@
+header {
+  background-color: #708090;
+  text-align:center;
+  font-family: Montserrat;
+  font-style: bold;
+  color: white;
+  margin: 10px;
+  padding: 20px;
+}
+
+body {
+  /* margin: 50px; */
+  padding: 10px;
+  background-color: #f6f0e8;
+  font-family: monospace;
+}
+
+#blogroll {
+  width: 60%;
+  float:left;
+}
+
+.aside {
+  float: left;
+}
+
+h2 {
+  color: navy;
+}
+
+.subheading {
+  font-style: italic;
+}
